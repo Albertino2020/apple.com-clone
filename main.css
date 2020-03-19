@@ -5,14 +5,17 @@ header {
     background-color: blue;
     width: 80%;
     position: relative;
-    margin-top: 90px;
     margin-left: 10%;
     margin-right: 10%;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
+    border-radius: 5px;
 }
 
 .hero-section {
-    background-color: black;
+    width: 100%;
+    background: url(images/your_verse_hero.jpg) 50% 100% no-repeat;
+    margin-top: 0;
+    padding-top: 90px;
 }
 
 h1,
