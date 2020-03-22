@@ -1,6 +1,6 @@
 # Apple.com Page Clone
 
-> This is my fourth project from the Microverse Curriculum. It consists of cloning the apple.com webpage using HTML and CSS, building with backgrounds and gradients. Small details were ignored, as the main purpose is to mimic the page's appearance, and the links go no-where.
+> This is my fourth project from the Microverse Curriculum. It consists of cloning the apple.com webpage using HTML and CSS, building with backgrounds and gradients. Small details were ignored, as the main purpose was to mimic the page's appearance. The links go no-where.
 
 ![screenshot](./images/Apple-Clone.png)
 
