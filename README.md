@@ -1,57 +1,26 @@
-# Project Name
+# Apple.com Page Clone
 
-> One paragraph statement about the project.
+> This is my fourth project from the Microverse Curriculum. It consists of cloning the apple.com webpage using HTML and CSS, building with backgrounds and gradients. Small details were ignored, as the main purpose is to mimic the page's appearance, and the links go no-where.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
+![screenshot](./images/Apple-Clone.png)
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML
+- CSS
+- VLC, Git, GitHub
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://rawcdn.githack.com/Albertino2020/apple.com-clone/6da69fc522bd31603d3ca2ceaec20c35c4b78d60/index.html)
 
 ## Authors
 
-👤 **Author1**
+👤 Albertino Francisco
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@albertino2020](https://github.com/albertino2020)
+- Twitter: [@albertino2050](https://twitter.com/albertino2050)
+- Linkedin: [linkedin](https://linkedin.com/in/boamorte)
 
 ## 🤝 Contributing
 
@@ -62,12 +31,6 @@ Feel free to check the [issues page](issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
