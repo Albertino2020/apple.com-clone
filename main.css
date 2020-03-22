@@ -182,8 +182,14 @@ footer {
     display: block;
     box-sizing: border-box;
     float: left;
-    width: 100%;
+    width: 80%;
     margin: 0 10%;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 7pt;
+}
+
+.ctr-flag {
+    height: 6px;
+    width: 16px;
+    border-radius: 50%;
 }
