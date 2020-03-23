@@ -2,6 +2,6 @@ linters:
   rubocop:
     display_cop_names: true
   csslint:
-  stylelint: 'stylelint.config.js'
+  stylelint: 
   eslint:
     config:
