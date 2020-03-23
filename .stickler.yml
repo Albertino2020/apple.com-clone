@@ -1,6 +1,6 @@
 linters:
   rubocop:
-    display_cop_names: true
+    display_cop_names: false
   csslint:
   stylelint: 
   eslint:
