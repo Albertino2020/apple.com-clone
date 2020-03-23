@@ -197,7 +197,7 @@ footer {
   text-decoration: underline;
 }
 
-.p-left:after,
+.p-left::after,
 .p-right::after {
   clear: both;
 }
