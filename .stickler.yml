@@ -4,4 +4,4 @@ linters:
   csslint:
   stylelint:
   eslint:
-    config: './stylelint.config.js'  
+    config:  
