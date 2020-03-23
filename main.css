@@ -178,8 +178,8 @@ footer {
   padding: 20px auto 10px 50px;
 }
 
-.p-left:after,
-.p-right:after {
+.p-left::after,
+.p-right::after {
   clear: both;
 }
 
@@ -191,14 +191,14 @@ footer {
   padding: 0 10px;
 }
 
-.p-left a:hover,
-.p-right a:hover,
-.foot-bottom a:hover {
+.p-left a::hover,
+.p-right a::hover,
+.foot-bottom a::hover {
   text-decoration: underline;
 }
 
-.p-left:after,
-.p-right:after {
+.p-left::after,
+.p-right::after {
   clear: both;
 }
 
@@ -211,8 +211,8 @@ footer {
   font-size: 7pt;
 }
 
-.foot-bottom:before,
-.foot-bottom:after {
+.foot-bottom::before,
+.foot-bottom::after {
   clear: both;
 }
 
