@@ -11,6 +11,7 @@ body {
     width: 80%;
     height: 36px;
     margin: 0 10% 25px 10%;
+    padding-right: 10px;
     position: relative;
     border-radius: 5px;
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
@@ -39,35 +40,48 @@ body {
 
 .header p:hover {
     background-color: rgb(37, 36, 36);
+    border-radius: 5px;
 }
 
 .header form {
     border-radius: 50%;
+    padding: auto 20px;
 }
 
+.header form:hover,
 .header form:active {
-    widows: 150px;
+    width: 200px;
+}
+
+.searchbutton {
+    position: fixed;
+    color: inherit;
+    background: transparent;
+    border: thin;
+    border-radius: 10px;
+}
+
+.searchinput {
+    width: 100%;
+    border-radius: 10px;
 }
 
 .src {
     display: inline-block;
     background: rgb(146, 144, 144);
+    color: whitesmoke;
     border-style: none;
     border-radius: 5px;
     margin: 0 0;
 }
 
-.searchinput {
-    width: 70%;
-}
-
-.searchinput:active {
+.common:active,
+.common:hover,
+.searchinput:active,
+.searchinput:hover {
+    cursor: normal;
     background: whitesmoke;
-}
-
-.searchbutton {
-    color: whitesmoke;
-    width: 20%;
+    color: black;
 }
 
 .hero-section {
@@ -79,7 +93,7 @@ body {
     background-size: cover;
     padding-top: 80px;
     padding-bottom: 100px;
-    margin: 0 auto;
+    margin: 0 auto 5px auto;
 }
 
 .msg {
