@@ -1,3 +1,7 @@
+.dummy {
+    position: none;
+}
+
 html,
 body {
     margin: 0 0;
