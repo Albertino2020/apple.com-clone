@@ -54,7 +54,8 @@ body {
 }
 
 .searchbutton {
-    position: fixed;
+    position: absolute;
+    vertical-align: middle;
     color: inherit;
     background: transparent;
     border: thin;
@@ -92,12 +93,12 @@ body {
     background: url(images/your_verse_hero.jpg) 50% 100% no-repeat;
     background-size: cover;
     padding-top: 80px;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
     margin: 0 auto 5px auto;
 }
 
 .msg {
-    width: 65%;
+    width: 60%;
     display: block;
     align-self: center;
     position: relative;
@@ -114,14 +115,14 @@ body {
 
 .txt-box {
     font-family: 'Heebo', sans-serif;
-    font-size: 46pt;
+    font-size: 44pt;
     font-style: 'Thin';
     font-weight: lighter;
 }
 
 .txt-box2 {
     font-family: 'Catamaran', sans-serif;
-    font-size: 26pt;
+    font-size: 24pt;
     font-style: normal;
     line-height: 40px;
 }
@@ -130,7 +131,7 @@ body {
     font-family: 'Catamaran', sans-serif;
     font-size: 20pt;
     font-style: normal;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .txt-box3:hover {
