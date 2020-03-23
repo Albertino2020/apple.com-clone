@@ -191,13 +191,13 @@ footer {
   padding: 0 10px;
 }
 
-.p-left a::hover,
-.p-right a::hover,
-.foot-bottom a::hover {
+.p-left a:hover,
+.p-right a:hover,
+.foot-bottom a:hover {
   text-decoration: underline;
 }
 
-.p-left::after,
+.p-left:after,
 .p-right::after {
   clear: both;
 }
