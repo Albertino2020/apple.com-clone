@@ -197,11 +197,6 @@ footer {
   text-decoration: underline;
 }
 
-.p-left::after,
-.p-right::after {
-  clear: both;
-}
-
 .foot-bottom {
   display: block;
   box-sizing: border-box;
