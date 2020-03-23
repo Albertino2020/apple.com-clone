@@ -1,11 +1,13 @@
 html,
 body {
-    box-sizing: border-box;
     margin: 0 0;
 }
 
 .header {
+    box-sizing: border-box;
     display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
     background: rgb(37, 36, 36);
     background: linear-gradient(rgb(146, 144, 144), rgb(68, 68, 68), rgb(146, 144, 144));
     width: 80%;
@@ -14,8 +16,6 @@ body {
     padding-right: 10px;
     position: relative;
     border-radius: 5px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr;
 }
 
 .common {
